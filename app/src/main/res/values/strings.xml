@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TaskList</string>
+    <string name="agregar_nueva_tarea">Agregar nueva tarea</string>
+    <string name="titulo_nueva_tarea">Nueva Tarea</string>
+    <string name="titulo_editar_tarea">Editar Tarea</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="editar">Editar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="menu_ajustes">Ajustes</string>
+</resources>
